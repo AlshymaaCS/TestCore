@@ -11,7 +11,7 @@ namespace Test.Controllers
     {
         private static string[] Summaries = new[]
         {
-            "Freezing", "Bracing333", "Chilly1111", "Cool111", "Mild1111", "Warm111", "Balmy111", "Hot111", "Sweltering999", "Scorching"
+            "Freezing", "Bracing333", "Chilly", "Cool111", "Mild1111", "Warm111", "Balmy111", "Hot111", "Sweltering999", "Scorching"
         };
 
         [HttpGet("[action]")]
